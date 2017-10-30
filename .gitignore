@@ -17,18 +17,25 @@ xcuserdata
 *.xccheckout
 *.moved-aside
 DerivedData
+.idea
+.gradle
+local.properties
+*.iml
 *.hmap
+
 *.ipa
 *.xcuserstate
 project.xcworkspace
 
 # Android/IntelliJ
-#
-build/
-.idea
-.gradle
-local.properties
-*.iml
+.idea/**
+android/gradlew.bat
+android/app/src/main/assets/fonts/
+
+
+#iOS
+ios/NativebaseKitchenSink/Info.plist
+ios/NativebaseKitchenSink.xcodeproj/project.pbxproj
 
 # node.js
 #
@@ -52,8 +59,7 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 
-#Intellij
-.idea/**
 
 
-android/gradlew.bat
+
+
