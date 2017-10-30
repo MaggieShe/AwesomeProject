@@ -35,7 +35,8 @@ android/app/src/main/assets/fonts/
 
 #iOS
 ios/NativebaseKitchenSink/Info.plist
-ios/NativebaseKitchenSink.xcodeproj/project.pbxproj
+ios/NativebaseKitchenSink.xcodeproj/
+
 
 # node.js
 #
