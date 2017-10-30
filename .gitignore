@@ -54,3 +54,6 @@ fastlane/screenshots
 
 #Intellij
 .idea/**
+
+
+android/gradlew.bat
